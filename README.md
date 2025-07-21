@@ -26,6 +26,18 @@ Bring humor, confusion, and a tiny bit of emotional instability to your manager�
 
 ---
 
+---
+
+## 📉 Meme Score Normalization
+
+Not all subreddits are created equal. To avoid meme bias toward massive communities like r/ProgrammerHumor, MemeMailer™ uses a weighted fairness algorithm that adjusts scores based on subreddit popularity.
+
+Here's how adjusted scores behave across different weights and exponent values:
+
+![Adjusted Score Visualization](images/adjusted_score_plot.svg)
+
+---
+
 ## How to Deploy Your Own
 
 1. **Fork this repo**
